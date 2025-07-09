@@ -10,5 +10,7 @@ Hệ thống này đếm số lượng pizza đã bán dựa trên video, sử d
 
 ## Run
 Do video có dung lượng lớn nên cần thêm video vào path (video có tên 1465_CH02_20250607170555_172408.mp4 trong mục google drive đã lưu video)
+
+sau đó
+
 docker-compose up --build
-The repository Eatlab already exists on this account
