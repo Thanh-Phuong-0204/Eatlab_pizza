@@ -1,0 +1,5 @@
+ultralytics
+git+https://github.com/openai/CLIP.git
+shapely>=2.0.0
+lap
+opencv-python

@@ -1,0 +1,4 @@
+{
+    "DockerRun.DisableDockerrc": true,
+    "cmake.sourceDirectory": "D:/Eatlab/ultralytics/examples/YOLO11-Triton-CPP"
+}

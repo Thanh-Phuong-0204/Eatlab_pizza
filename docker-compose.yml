@@ -1,0 +1,13 @@
+services:
+  pizza_counter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./videos:/app/videos
+      - ./feedback_data:/app/feedback_data
+      - ./output:/app/output
+      - ./models:/app/models
+    ports:
+      - "5051:5051"  # Nếu chạy FastAPI hoặc Flask trên port 8000
+    command: python app/main.py
