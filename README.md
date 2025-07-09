@@ -9,7 +9,7 @@ Hệ thống này đếm số lượng pizza đã bán dựa trên video, sử d
 - Được chứa hoàn toàn trong container bằng Docker Compose
 
 ## Run
-Do video có dung lượng lớn nên cần thêm video vào path (video có tên 1465_CH02_20250607170555_172408.mp4 trong mục google drive đã lưu video)
+Do video có dung lượng lớn nên cần thêm video vào path (video có tên 1465_CH02_20250607170555_172408.mp4 trong mục google drive đã lưu video từ path : https://drive.google.com/drive/folders/19QSILvBetBvcXyHjR85DahatiHOQSp_A)
 
 sau đó
 
